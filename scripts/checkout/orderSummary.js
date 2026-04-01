@@ -219,7 +219,7 @@ function emptyCartHTMLTemplate() {
         <div class="empty-cart-message">
             Your cart is empty.
         </div>
-        <a class="button-primary view-products-link" href="amazon.html">
+        <a class="button-primary view-products-link" href="./">
             View products
         </a>
     `;
